@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTest", "SignalRTest\SignalRTest.csproj", "{43BFB5B5-5CF4-4DB9-881E-FE7B9A29AEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BFB5B5-5CF4-4DB9-881E-FE7B9A29AEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BFB5B5-5CF4-4DB9-881E-FE7B9A29AEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BFB5B5-5CF4-4DB9-881E-FE7B9A29AEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BFB5B5-5CF4-4DB9-881E-FE7B9A29AEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
