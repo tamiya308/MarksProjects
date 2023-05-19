@@ -1,0 +1,82 @@
+* {
+ font-size: 9pt;
+ font-family: Arial;
+}
+
+.App {
+  text-align: left;
+   flex: 1;
+   height:100%;
+}
+
+nav {
+  display: flex;
+  align-items: left;
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  /* justify-content: space-around; */
+  align-items: left;
+  list-style: none;
+}
+
+li {
+  // color: red;
+  margin: 0 0.8rem;
+  position: relative;
+  list-style: none;
+  text-decoration: "none"
+}
+
+.current li {
+  font-weight: bold;
+  text-decoration: "none"
+}
+
+.headder {
+  align-items: left;
+  min-height: 10vh;
+  background: rgb(73, 79, 82);
+  color: white;
+  height:10%;
+}
+
+.footer {
+  align-items: left;
+   bottom: 0;
+  background: rgb(73, 79, 82);
+  color: white;
+    height:5%;
+}
+
+.content {
+  flex: 1;
+  height:85%;
+}
+
+// Spinniner cursor
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+// css for cenetering an elemnt on screen, eg: loading spinner
+.centered_div {
+  width: Xu;
+  height: Yu;
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  margin-left: -(X/2)u;
+  margin-top: -(Y/2)u;
+}

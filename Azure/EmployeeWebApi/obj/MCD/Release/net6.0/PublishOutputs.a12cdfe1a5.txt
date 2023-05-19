@@ -1,0 +1,7 @@
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\WebApi1.exe
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\appsettings.Development.json
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\appsettings.json
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\WebApi1.dll
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\WebApi1.deps.json
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\WebApi1.runtimeconfig.json
+C:\Code\WebApi1\bin\MCD\Release\net6.0\publish\WebApi1.pdb

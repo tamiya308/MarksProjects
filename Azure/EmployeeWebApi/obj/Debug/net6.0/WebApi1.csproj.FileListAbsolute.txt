@@ -1,0 +1,8 @@
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.csproj.AssemblyReference.cache
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.AssemblyInfoInputs.cache
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.AssemblyInfo.cs
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.csproj.CoreCompileInputs.cache
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.RazorAssemblyInfo.cache
+C:\Code\Azure\EmployeeWebApi\obj\Debug\net6.0\WebApi1.RazorAssemblyInfo.cs
