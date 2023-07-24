@@ -1,0 +1,11 @@
+<div>This is blue.html</div>
+
+<div ng-controller="ParentController">
+    {{title}}</br>
+    <button ng-click="broadcastToChildren()">Broadcast to children</button>
+    <div ng-controller="ChildController">
+        {{title}}<br />
+        <input type="text" ng-model="$parent.title" />
+        <button ng-click="emitToParent()">Send Parent Message</button>
+    </div>
+</div><br />
